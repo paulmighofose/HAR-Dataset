@@ -13,4 +13,5 @@ As you run the run_analysis script you’ll notice:
 	4.  The setting and resetting of the working directory
 	5.  And a write.table function following “###” that is (once removed) utilized to write the new data tables: HAR_Complete_Dataset and HAR Mean.SD.txt files.
 Note:
-	Each data set is tidy and provides descriptive names of each observation.  
+	Each data set is tidy and provides descriptive names of each observation. 
+	Description of commonly used variables is found within the codebook.r file 
